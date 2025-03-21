@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ejemplosoperadores {
+public class Ejemplosoperadores {
     public static void main(String[] args) {
         Scanner input =new Scanner(System.in);
         System.out.println("ingrese el primero nemero");
